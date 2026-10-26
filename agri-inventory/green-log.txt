@@ -1,0 +1,20 @@
+test_auth_health_and_empty_BR01_BR12 (test_app.HttpTests.test_auth_health_and_empty_BR01_BR12) ... ok
+test_json_media_and_unknown_method_BR11 (test_app.HttpTests.test_json_media_and_unknown_method_BR11) ... ok
+test_post_success_and_retry_http_BR08 (test_app.HttpTests.test_post_success_and_retry_http_BR08) ... ok
+test_bad_type_item_and_schema_BR02_BR03_BR11 (test_app.ServiceTests.test_bad_type_item_and_schema_BR02_BR03_BR11) ... ok
+test_boolean_quantity_rejected (test_app.ServiceTests.test_boolean_quantity_rejected) ... ok
+test_capacity_limit_BR06 (test_app.ServiceTests.test_capacity_limit_BR06) ... ok
+test_concurrent_retry_atomic_BR07_BR08 (test_app.ServiceTests.test_concurrent_retry_atomic_BR07_BR08) ... ok
+test_duplicate_id_changed_note_conflict (test_app.ServiceTests.test_duplicate_id_changed_note_conflict) ... ok
+test_duplicate_id_changed_quantity_conflict_BR08 (test_app.ServiceTests.test_duplicate_id_changed_quantity_conflict_BR08) ... ok
+test_duplicate_id_same_payload_safe_BR08 (test_app.ServiceTests.test_duplicate_id_same_payload_safe_BR08) ... ok
+test_empty_inventory_and_history_BR12 (test_app.ServiceTests.test_empty_inventory_and_history_BR12) ... ok
+test_fraction_zero_and_negative_rejected_BR04 (test_app.ServiceTests.test_fraction_zero_and_negative_rejected_BR04) ... ok
+test_in_out_and_exact_zero_BR05_BR07 (test_app.ServiceTests.test_in_out_and_exact_zero_BR05_BR07) ... ok
+test_note_and_request_id_validation_BR08_BR09 (test_app.ServiceTests.test_note_and_request_id_validation_BR08_BR09) ... ok
+test_out_of_stock_does_not_mutate_BR05 (test_app.ServiceTests.test_out_of_stock_does_not_mutate_BR05) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.526s
+
+OK
